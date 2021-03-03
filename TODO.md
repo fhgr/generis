@@ -29,3 +29,4 @@ NER stellt daher eine wichtige Schlüsseltechnologie für den Aufbau von Knowled
 * Stanford NER Tagger (https://nlp.stanford.edu/software/CRF-NER.shtml)
 * Xie, Jiateng, Zhilin Yang, Graham Neubig, Noah A. Smith, and Jaime G. Carbonell. “Neural Cross-Lingual Named Entity Recognition with Minimal Resources.” In EMNLP, 2018. https://doi.org/10.18653/v1/d18-1034.
 * AllenNLP (https://allennlp.org/)
+* Stanford Stanza (https://github.com/stanfordnlp/stanza)
